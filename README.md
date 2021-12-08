@@ -5,4 +5,7 @@ Initialize project with npm, install moment.js, run the project using the run sc
 Use Readable, Writable and Transform APIs exposed from stream module
 
 
+
+
+npm install
 npm run-script start
