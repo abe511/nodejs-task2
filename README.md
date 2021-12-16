@@ -9,4 +9,4 @@ Use Readable, Writable and Transform APIs exposed from stream module
 
 npm install
 
-npm run-script start
+npm run start
